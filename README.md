@@ -14,7 +14,7 @@ The dataset contains various financial indicators of companies, including:
 - credibility
 - competitiveness
 -  operating_risk
--  
+   
 These features help in predicting whether a company is at risk of bankruptcy.
 
 ## Project Workflow
