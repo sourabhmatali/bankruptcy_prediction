@@ -8,12 +8,13 @@ Bankruptcy prediction is crucial for investors, creditors, and financial analyst
 
 ## Dataset
 The dataset contains various financial indicators of companies, including:
-- Liquidity ratios
-- Profitability ratios
-- Leverage ratios
-- Efficiency ratios
-- Solvency ratios
-
+- industrial_risk
+- management_risk
+- financial_flexibility
+- credibility
+- competitiveness
+-  operating_risk
+-  
 These features help in predicting whether a company is at risk of bankruptcy.
 
 ## Project Workflow
